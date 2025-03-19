@@ -48,6 +48,7 @@
 body{
     -webkit-font-smoothing:antialiased;
     font-family: "Raleway-regular";
+    transform: scale(0.9); /* Reduz o conteúdo em 10% */
 }
 .container {
     width:100%;
