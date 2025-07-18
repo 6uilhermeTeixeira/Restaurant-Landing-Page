@@ -1,3 +1,4 @@
+/* Carrousel *//* Carrousel *//* Carrousel */
 $(document).ready(function(){
    $('.food-slider').slick({
       autoplay:true,
@@ -26,6 +27,8 @@ $(document).ready(function(){
       $('.site-content-wrapper').toggleClass('scaled');
    })
 });
+/* Carrousel *//* Carrousel *//* Carrousel */
+
 
 /* Pop-up *//* Pop-up *//* Pop-up */
 document.addEventListener('DOMContentLoaded', function() {
@@ -80,3 +83,4 @@ document.addEventListener('DOMContentLoaded', function() {
         // document.body.innerHTML = '<h1>Acesso Negado</h1><p>Você precisa ter 18 anos ou mais.</p>';
     });
 });
+/* Pop-up *//* Pop-up *//* Pop-up */
